@@ -2,7 +2,7 @@
 
 ### Goal
 ----
-This project will look at the rates of crime within Seattle's neighborhoods as well as the distribution of greenspaces (and their quality) to answer the question: What impact does greenspace have on crime rates, or areas for higher densities of policing? 
+This project will look at the rates of crime within Seattle's neighborhoods as well as the distribution of greenspaces (and their quality) to answer the question: What impact does access to nature have on crime rates? 
 
 ### Documentation
 ----
