@@ -6,11 +6,13 @@ This project will look at the rates of crime within Seattle's neighborhoods as w
 
 ### Documentation 
 ----
-This project focuses on three databases to understand the distribution of crime and greenspace. [Find more about the open data lisencence](https://www.seattle.gov/tech/initiatives/open-data)
+This project focuses on three databases to understand the distribution of crime and greenspace. 
 
 - [**SPD Crime Data 2008 - Present**](https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5) which tracks the crime in Seattle crime. In this study, I will be focusing on the year 2022 specf 
 - [**Seattle Public Spaces**](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::publicspaceseattle-entrypts/explore?location=47.611555%2C-122.355840%2C11.46) which is an overview of parks in Seattle which are open to the public. 
 - [**Seattle Neighborhood GeoData**](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::city-clerk-neighborhoods/about) which breaks the Seattle area into different neighborhoods based on Geodata. 
+
+[Find more about the open data lisencence](https://www.seattle.gov/tech/initiatives/open-data)
 
 ### Data Values of Interest 
 ----
